@@ -1,0 +1,17 @@
+p.solid {
+    border-style:solid;
+    text-align: center;
+    border-width: 4px;
+    border-radius: 4px;
+    font-size: 50px;
+    color:white;
+    border-color : black;
+
+}
+
+body {
+    background-color: #333;
+}
+style {
+    color :white;
+}
