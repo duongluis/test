@@ -13,6 +13,6 @@ body {
 style {
     color :#333;
 }
-p:hover {
+p:active {
     color:blue;
 }
